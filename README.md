@@ -6,7 +6,7 @@ This project is intended for any people interested in build, deploy and use an E
 ## Requirements
 
 ```
-1. IAM with the permissions to create a EC2 nodes, VPC and EKS cluster.
+1. IAM with the permissions to create an EC2 nodes, VPC and EKS cluster.
 2. EC2 instance in the same region we will deploy the EKS cluster. In my case, I used Canada region.
 3. The Access Key and Secret Access key configured as environment variables in the EC2 instance mentioned above.
 4. AWS CLI, kubectl, and Terraform installed and running in the EC2 instance.
