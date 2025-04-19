@@ -1,4 +1,4 @@
-# Building an EKS cluster wit Terraform
+# Building an EKS cluster with Terraform
 #### EKS cluster with public endpoint
 
 This project is intended for any people interested in build, deploy and use an EKS cluster in AWS Cloud Service.  
