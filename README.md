@@ -3,7 +3,7 @@
 
 This project is intended for any people interested in build, deploy and use an EKS cluster with AWS Cloud Service. I will use Terraform to build all the infrastructure.
 
-In order to achieve our goal of create an EKS cluster, we need a VPC and I will assume you do not have a VPC (Virtual Private Cloud) available to this project. Once, this requeriment was completed as second stage I will build the EKS cluster.
+AS first stage, I need a VPC and I will assume I do not have any VPC (Virtual Private Cloud) available to this project. Once, this requeriment was completed, I show you how to build the EKS cluster.
 
 ## First Step. Creating a VPC
 
